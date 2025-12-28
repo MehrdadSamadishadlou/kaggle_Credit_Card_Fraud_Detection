@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Coming Soon ...
-=======
-# kaggle_Credit_Card_Fraud_Detection
-This is the repository containing my codes training on Kaggle's Credit Card Fraud Detection 
->>>>>>> 8db6e62 (Addign AUP to the models and CV and hyperparameter tuning to the XGB.)
+This repository contains a supervised machine learning project on the Credit Card Fraud Detection dataset from Kaggle. The work focuses on detecting fraudulent transactions using statistical and machine learning methods, and was developed under the supervision of [Reza Jafari](https://t.me/reza_jafari_ai).
